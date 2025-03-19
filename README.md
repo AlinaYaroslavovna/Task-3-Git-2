@@ -8,5 +8,14 @@
 <html lang="ru">
 	<head>
         <link rel="stylesheet" href="style.css">
+        <style>
+            body {
+                color: #0c0c0c;     
+                background: rgb(122, 229, 243); /* Цвет фона */
+                font-family: cursive;    
+                font-weight: 700;
+                font-size: 70px;
+            }
+        </style>
 	</head>
  </html>   
