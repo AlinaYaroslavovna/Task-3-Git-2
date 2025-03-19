@@ -4,7 +4,7 @@
 
 ![А вот и я!](https://github.com/AlinaYaroslavovna/Task-3-Git/blob/main/1000087996.png?raw=true)
 
-<!DOCTYPE html>
+
 <html lang="ru">
 	<head>
         <link rel="stylesheet" href="style.css">
